@@ -3,7 +3,7 @@
 ---  
 ### About  
 
-Hey everyone 👋 , I am Debangshu Roy pursuing CSE (Cybersecurity) currently in 4th semester.  
+Hey everyone 👋 , I am Drashti Ranpariya pursuing IT (Information Technology) currently in 6th semester.  
 
 It was a virtual internship which was observed by __*Oasis Infobyte*__ . I opted for a python internship and had 1 month for completing 3 projects,which I successfully did 😊.Got to learn a lot of things not only related  
 to programming but also skills like  
